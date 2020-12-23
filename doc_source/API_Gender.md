@@ -6,7 +6,7 @@ Amazon Rekognition makes gender binary \(male/female\) predictions based on the 
 
 Using Amazon Rekognition to make gender binary predictions is best suited for use cases where aggregate gender distribution statistics need to be analyzed without identifying specific users\. For example, the percentage of female users compared to male users on a social media platform\. 
 
-We don't recommend using gender binary predictions to make decisions that impact  an individual's rights, privacy, or access to services\.
+We don't recommend using gender binary predictions to make decisions that impact an individual's rights, privacy, or access to services\.
 
 ## Contents<a name="API_Gender_Contents"></a>
 
